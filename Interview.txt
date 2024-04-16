@@ -1,0 +1,25 @@
+Nama saya Andrew Avellino, lulusan jurusan Teknik Informatika dari Universitas Bina Nusantara pada tahun 2022 dengan IPK 3,66. Saya memiliki pengalaman sebagai seorang System Analyst selama 3,5 tahun di Divisi IT Bina Nusantara. Dalam karir saya, terdapat dua peran penting yang saya jalani sebagai System Analyst di Divisi IT, yaitu tugas operasional dan pengembangan aplikasi.
+
+Dalam tugas operasional, tanggung jawab saya adalah menangani keluhan dari pengguna terkait aplikasi, mengurus data yang tidak akurat, menyediakan laporan yang diminta oleh pengguna, serta melakukan pengecekan aplikasi untuk mendeteksi kesalahan sebelum diteruskan kepada programmer.
+
+Di sisi pengembangan, saya bertugas melakukan pengumpulan kebutuhan (requirement gathering) bersama pengguna, membuat dokumentasi proyek pengembangan seperti desain antarmuka pengguna (UI/UX), merancang database, menyusun skenario pengujian, dan membuat panduan pengguna.
+
+Selain itu, saya juga memberikan solusi dan bimbingan kepada junior System Analyst di tim saya, serta secara berkala melaporkan kemajuan kerja kepada atasan saya.
+
+Normalisasi 1NF (to remove duplicate and separate the column)
+Normalisasi 2NF (eliminate partial functional dependency)
+Normalisasi 3nf (eliminate transitive dependency)
+
+Before i start my introduction, please excuse my english because it's been so long since i last spoke in English. 
+
+My name is Andrew Avellino, I am a graduate of the Information Technology department from Bina Nusantara University in 2022 with a GPA of 3.66. I have been working as a System Analyst for 3.5 years in the IT Division of Bina Nusantara. Throughout my career, I have held two significant roles as a System Analyst in the IT Division, namely operational tasks and application enhancement.
+
+In operational tasks, my responsibilities include handling user complaints regarding applications, managing inaccurate data, providing requested reports, and conducting application checks for errors before forwarding them to programmers.
+
+In enhancement projects, my role involves gathering requirements from users, creating project documentation such as UI/UX design, designing databases, testing scenarios, and preparing user guides.
+
+Additionally, I provide guidance and support to junior System Analysts in my team and regularly report progress to my superiors."
+
+thank you for this opportunity and i hope that i can be part of this team in the future
+
+So can you tell me more about the company, and team that i will be working with.
